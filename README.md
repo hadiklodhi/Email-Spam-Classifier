@@ -28,7 +28,7 @@ The dataset was split into two parts:
  * Model Building: Implemented the Scikit-Learn pipeline.
  * Evaluation: Created a Confusion Matrix to track False Positives and False Negatives.
  * Deployment Prep: Exported the model using pickle for real-time use.
- * 
+   
 This project demonstrates:
 
 Practical implementation of an end-to-end ML workflow
